@@ -1,6 +1,6 @@
-### Olá, sou um aprendiz a programador Front-end. 👋
+### Olá, sou um aprendiz a programador Web. 👋
 
-- 🌱 No momento estou aprendendo Javascript e C# e busco me especializar em outras áreas relacionadas com Front-end.
+- 🌱 No momento estou aprendendo Javascript e React, busco me especializar em outras áreas relacionadas com Web.
 
 <div align="center">
   <a href="https://github.com/luiz-wendland">
