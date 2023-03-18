@@ -1,6 +1,6 @@
 ### Olá, sou um aprendiz a programador Web. 👋
 
-- 🌱 No momento estou aprendendo Javascript e React, busco me especializar em outras áreas relacionadas com Web.
+- 🌱 No momento estou aprendendo CSS, Javascript e React, busco me especializar em outras áreas relacionadas com Web.
 
 <div align="center">
   <a href="https://github.com/luiz-wendland">
