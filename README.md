@@ -1,6 +1,6 @@
-### Olá, sou um aprendiz a programador Web. 👋
+### Olá, sou um aprendiz a programador Full-Stack. 👋
 
-- 🌱 No momento estou aprendendo CSS, Javascript e React, busco me especializar em outras áreas relacionadas com Web.
+- 🌱 No momento estou focando meus estudos no Santander Bootcamp 2023 - Fullstack Java+Angular da DIO.
 
 <div align="center">
   <a href="https://github.com/luiz-wendland">
