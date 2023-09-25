@@ -1,6 +1,6 @@
-### Olá, sou um aprendiz a programador Full-Stack. 👋
+![image](https://github.com/Luiz-Wendland/Luiz-Wendland/assets/68738153/813d98eb-ee64-4d19-9de8-5b21a2170054)### Olá, sou um aprendiz a programador .NET. 👋
 
-- 🌱 No momento estou focando meus estudos no Santander Bootcamp 2023 - Fullstack Java+Angular da DIO.
+- 🌱 No momento estou focando meus estudos no Bootcamp WEX - Desenvolvimento .NET e QA da DIO.
 
 <div align="center">
   <a href="https://github.com/luiz-wendland">
