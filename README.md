@@ -1,6 +1,7 @@
 ### Olá, sou um aprendiz a programador .NET. 👋
 
 - 🌱 No momento estou focando meus estudos no Bootcamp WEX - Desenvolvimento .NET e QA da DIO.
+- ![C#](https://img.shields.io/badge/C%23-000?style=for-the-badge&logo=c-sharp&logoColor=823085)
 
 <div align="center">
   <a href="https://github.com/luiz-wendland">
