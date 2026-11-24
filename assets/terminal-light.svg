@@ -1,0 +1,40 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="353" viewBox="0 0 480 353" role="img" aria-labelledby="title desc">
+  <title id="title">luiz@linux: ~ — fish</title>
+  <desc id="desc">Junior technical support analyst and cybersecurity student. Completed the Santander Cybersecurity Bootcamp. Interested in Linux, systems, automation and open source. Exploring Blue Team and SOC work, with detection engineering as a longer-term goal. Setup: CachyOS, Fish, Kitty and Hyprland.</desc>
+  <defs>
+    <style>
+      text { font-family: 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Menlo, monospace; font-size: 15px; }
+      .user { fill: #34782a; }
+      .path { fill: #1e57a6; }
+      .cmd  { fill: #4c4f69; }
+      .out  { fill: #555970; }
+      .key  { fill: #875812; }
+      .val  { fill: #4c4f69; }
+      .dim  { fill: #676c83; }
+    </style>
+  </defs>
+
+  <rect x=".5" y=".5" width="479" height="352" rx="10" fill="#eff1f5" stroke="#ccd0da"/>
+  <path d="M10 1 H470 Q479 1 479 10 V34 H1 V10 Q1 1 10 1 Z" fill="#e6e9ef"/>
+  <line x1="1" y1="34" x2="479" y2="34" stroke="#ccd0da"/>
+  <circle cx="19" cy="17" r="3.5" fill="#b64562"/>
+  <circle cx="32" cy="17" r="3.5" fill="#875812"/>
+  <circle cx="45" cy="17" r="3.5" fill="#34782a"/>
+  <text x="240" y="22" text-anchor="middle" fill="#5c5f77">luiz@linux: ~ — fish</text>
+
+  <text x="20" y="64"><tspan class="user">luiz@linux</tspan><tspan class="path" dx="9">~</tspan><tspan class="user">&gt;</tspan><tspan class="cmd" dx="9">whoami</tspan></text>
+  <text x="20" y="85" class="out">Luiz Fernando</text>
+  <text x="20" y="106" class="out">Junior technical support analyst</text>
+  <text x="20" y="127" class="out">Cybersecurity student</text>
+  <text x="20" y="148" class="out">Completed the Santander Cybersecurity Bootcamp.</text>
+
+  <text x="20" y="181"><tspan class="user">luiz@linux</tspan><tspan class="path" dx="9">~</tspan><tspan class="user">&gt;</tspan><tspan class="cmd" dx="9">cat interests.txt</tspan></text>
+  <text x="20" y="202" class="out">Linux, systems, automation, and open source</text>
+  <text x="20" y="223" class="out">Exploring Blue Team and SOC work</text>
+  <text x="20" y="244" class="out">Longer-term goal: detection engineering</text>
+
+  <text x="20" y="277"><tspan class="user">luiz@linux</tspan><tspan class="path" dx="9">~</tspan><tspan class="user">&gt;</tspan><tspan class="cmd" dx="9">cat /etc/environment</tspan></text>
+  <text x="20" y="298"><tspan class="key">DISTRO</tspan><tspan class="dim">=</tspan><tspan class="val">CachyOS</tspan></text>
+  <text x="20" y="319"><tspan class="key">SHELL</tspan><tspan class="dim">=</tspan><tspan class="val">fish</tspan><tspan class="key" x="218">TERMINAL</tspan><tspan class="dim">=</tspan><tspan class="val">kitty</tspan></text>
+  <text x="20" y="340"><tspan class="key">WM</tspan><tspan class="dim">=</tspan><tspan class="val">Hyprland</tspan></text>
+</svg>
