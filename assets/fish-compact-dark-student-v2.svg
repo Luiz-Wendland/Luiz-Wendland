@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="188" viewBox="0 0 480 188" role="img" aria-labelledby="title desc">
+  <title id="title">fish — ~</title>
+  <desc id="desc">~ ❯ whoami. Luiz Fernando. Student of Linux &amp; Defensive Security. ~ ❯ cat interests. Blue Team · Detection Engineering · Open Source. ~ ❯</desc>
+  <style>
+    text { font: 15px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Menlo, monospace; fill: #cdd6f4; }
+    .title { font-size: 13px; fill: #9399b2; }
+    .path { fill: #89b4fa; }
+    .prompt { fill: #a6e3a1; }
+    .output { fill: #a6adc8; }
+    .name { font-weight: 700; }
+  </style>
+
+  <rect x=".5" y=".5" width="479" height="187" rx="10" fill="#11111b" stroke="#313244"/>
+  <path d="M10 1 H470 Q479 1 479 10 V32 H1 V10 Q1 1 10 1 Z" fill="#181825"/>
+  <line x1="1" y1="32" x2="479" y2="32" stroke="#313244"/>
+  <circle cx="19" cy="16" r="3.5" fill="#f38ba8"/>
+  <circle cx="32" cy="16" r="3.5" fill="#f9e2af"/>
+  <circle cx="45" cy="16" r="3.5" fill="#a6e3a1"/>
+  <text class="title" x="240" y="21" text-anchor="middle">fish — ~</text>
+
+  <text x="20" y="59"><tspan class="path">~</tspan><tspan class="prompt" x="38">❯</tspan><tspan x="56">whoami</tspan></text>
+  <text class="name" x="20" y="79">Luiz Fernando</text>
+  <text class="output" x="20" y="99">Student of Linux &amp; Defensive Security</text>
+
+  <text x="20" y="126"><tspan class="path">~</tspan><tspan class="prompt" x="38">❯</tspan><tspan x="56">cat interests</tspan></text>
+  <text class="output" x="20" y="146">Blue Team · Detection Engineering · Open Source</text>
+
+  <text x="20" y="173"><tspan class="path">~</tspan><tspan class="prompt" x="38">❯</tspan></text>
+  <rect x="56" y="161" width="7" height="15" fill="#a6e3a1"/>
+</svg>
