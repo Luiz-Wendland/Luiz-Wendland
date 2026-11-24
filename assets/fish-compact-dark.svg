@@ -1,6 +1,6 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="480" height="188" viewBox="0 0 480 188" role="img" aria-labelledby="title desc">
   <title id="title">fish — ~</title>
-  <desc id="desc">~ ❯ whoami. Luiz Fernando. Linux &amp; Defensive Security. ~ ❯ cat interests. Blue Team · Detection Engineering · Open Source. ~ ❯</desc>
+  <desc id="desc">~ ❯ whoami. Luiz Fernando. STUDENT of Linux &amp; Defensive Security. ~ ❯ cat interests. Blue Team · Detection Engineering · Open Source. ~ ❯</desc>
   <style>
     text { font: 15px 'JetBrains Mono', 'Fira Code', 'Cascadia Code', Consolas, Menlo, monospace; fill: #cdd6f4; }
     .title { font-size: 13px; fill: #9399b2; }
@@ -20,7 +20,7 @@
 
   <text x="20" y="59"><tspan class="path">~</tspan><tspan class="prompt" x="38">❯</tspan><tspan x="56">whoami</tspan></text>
   <text class="name" x="20" y="79">Luiz Fernando</text>
-  <text class="output" x="20" y="99">Linux &amp; Defensive Security</text>
+  <text class="output" x="20" y="99">STUDENT of Linux &amp; Defensive Security</text>
 
   <text x="20" y="126"><tspan class="path">~</tspan><tspan class="prompt" x="38">❯</tspan><tspan x="56">cat interests</tspan></text>
   <text class="output" x="20" y="146">Blue Team · Detection Engineering · Open Source</text>
